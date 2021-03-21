@@ -1,6 +1,6 @@
 # jdoc
 out/production/sudoku-gui/jdoc/
-sudoku-gui/src/jdoc/
+src/jdoc/
 
 # Compiled class file
 *.class
