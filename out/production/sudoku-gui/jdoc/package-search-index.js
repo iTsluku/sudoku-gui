@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"sudoku.controller"},{"l":"sudoku.main"},{"l":"sudoku.model"},{"l":"sudoku.view"}]
